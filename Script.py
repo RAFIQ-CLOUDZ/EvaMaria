@@ -1,40 +1,10 @@
 class script(object):
-    START_TXT = """Yo...Yo...MR X FILTER BOT {} 💖
-I'm Powerful 𝙼𝚁 𝚇 𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃 You Can Use Me As A Auto-filter in Your Group
+    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+    HELP_TXT = """𝙷𝙴𝚈 {}
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
 
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
-
-
-⚠️More Help Check Help Button Below
-
-😎 Powered by @MROTTTamilOffl
-
-©️ Maintained By @MR_X_MIRROR"""
-    HELP_TXT = """
-    🙋🏻‍♂️   Hellooo  {} 🤓
-
-○  it's Note Complicated...🤓
-
-○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
-
-○ Available Commands
-     
- /start - Check I'm Alive..
- /status - Bot Status
- /info - User info 
- /id - User id
- /stats - Db status  
- /broadcast - Broadcast (owner only)
-
-○ Notice 📙:-
-
-○Dont Spam Me...🤒
-
-😎 Powered by @MROTTTamilOffl
-
-©️ Maintained By @MR_X_MIRROR"""
+😎 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 @MROTTTamilOffl"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MROTTTamilOffl>MROTTTAMILOFFL</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -47,7 +17,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 - Source - https://t.me/MROTTTamilOffl  
 
 <b>DEVS:</b>
-- <a href=https://t.me/MROTTTamilOffl>MROTTTAMILOFFL</a>"""
+- <a href=https://t.me/MROTTTamilOffl>𝙼𝚁𝙾𝚃𝚃𝚃𝙰𝙼𝙸𝙻𝙾𝙵𝙵𝙻</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
